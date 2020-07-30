@@ -209,9 +209,9 @@ CARTRIDGEDATA:
 		DC.B	"SEGA MEGA DRIVE " ; System type
 		DC.B	"(C)GCFG 2020.JUL" ; Copyright!
 TITLE:
-		DC.B	"Glauco Mega Drive Test Game                     " ; Domestic title
-		DC.B	"Glauco Mega Drive Test Game                     " ; Overseas title
-		DC.B	"GH YYYYYYYY-ZZ"	;PRODUCT NO;VERSION
+		DC.B	"MDGEN: The Sega Mega Drive/Genesis Cartgide Rom " ; Domestic title
+		DC.B	"MDGEN: The Sega Mega Drive/Genesis Cartgide Rom " ; Overseas title
+		DC.B	"GF YYYYYYYY-ZZ"	;PRODUCT NO;VERSION
 		DC.W	0			;CHECKSUM
 		DC.B	"6               "	;CONTROL DATA
 		DC.L	$000000,$3FFFFF 	;ROM ADDRESS

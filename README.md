@@ -1,4 +1,4 @@
-# mdgen is a Sega Mega Drive/Genesis Cartgide Rom made by Glauco Furlaneto.
+# mdgen is a Sega Mega Drive/Genesis Demo Cartgide Rom made by Glauco Furlaneto.
 
 It is based on Jon Burton's example:
 - https://www.youtube.com/watch?v=PSYhSmXBgIw
@@ -11,6 +11,8 @@ Thank you for your wonderful work.
 
 Pads:
 - 1P Up, Down, Left and Right: Move background map.
+
+Buttons will cycle the color palette:
 - 1P Button A: Set Red and Cyan palette.
 - 1P Button B: Set Green and Magenta palette.
 - 1P Button C: Set Blue and Yellow palette.
@@ -18,4 +20,4 @@ Pads:
 - 1P Button X: Set Cyan and Red palette.
 - 1P Button Y: Set Magenta and Green palette.
 - 1P Button Z: Set Yellow and Blue palette.
-- 1P MODE: Set Dark (Gray and Black) palette.
+- 1P MODE: Set Dark (Gray and Black) palette (strange for now).

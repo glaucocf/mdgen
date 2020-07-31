@@ -1,4 +1,4 @@
-# mdgen is a Sega Mega Drive/Genesis Demo Cartgide Rom made by Glauco Furlaneto.
+# mdgen is a Sega Mega Drive/Genesis Demo Cartridge Rom made by Glauco Furlaneto.
 
 It is based on Jon Burton's example:
 - https://www.youtube.com/watch?v=PSYhSmXBgIw
